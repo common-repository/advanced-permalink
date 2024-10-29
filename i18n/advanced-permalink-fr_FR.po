@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-12 01:20+0530\n"
+"PO-Revision-Date: 2017-07-12 01:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: advanced-permalink.php:59
+msgid "Advanced Permalinks"
+msgstr "Advanced Permalels"
+
+#: advanced-permalink.php:64
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les autorisations suffisantes pour accéder à cette page."
+
+#: advanced-permalink.php:67
+msgid "Advanced Permalink Settings"
+msgstr "Advanced Permalien Paramètres"
+
+#: advanced-permalink.php:103
+msgid "Common Links"
+msgstr "Liens communs"
+
+#: advanced-permalink.php:110
+msgid "Page"
+msgstr "Page"
+
+#: advanced-permalink.php:118
+msgid "Post Type Links"
+msgstr "Type de liens"
